@@ -4,7 +4,6 @@
 ### DemoIndex
 
 
-
 ## Author
 
 - [Narendra Bagul](https://github.com/Narendra-150)
@@ -32,8 +31,6 @@ Add Your name/git profile URL in README.MD file
 ```git commit -m "Author Name Added"```
 
 ```git push origin [name_of_your_new_branch]```
-
-
 
 
 ## License
