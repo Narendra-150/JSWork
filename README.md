@@ -1,8 +1,8 @@
 # NodeJS Demo Codes
 
 ### Index
-1. [Simple Name Converter] (https://github.com/Narendra-150/JSWork/tree/master/nameConverter)
-2. [Get name from command-line & Converter] (https://github.com/Narendra-150/JSWork/tree/master/nameConverterCLI)
+1. [Simple Name Converter](https://github.com/Narendra-150/JSWork/tree/master/nameConverter)
+2. [Get name from command-line & Converter](https://github.com/Narendra-150/JSWork/tree/master/nameConverterCLI)
 
 
 
