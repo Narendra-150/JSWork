@@ -1,12 +1,14 @@
 # NodeJS Demo Codes
 
+### Index
+1. [Simple Name Converter] (https://github.com/Narendra-150/JSWork/tree/master/nameConverter)
+2. [Get name from command-line & Converter] (https://github.com/Narendra-150/JSWork/tree/master/nameConverterCLI)
 
-### DemoIndex
 
 
-## Author
-
+## Authors
 - [Narendra Bagul](https://github.com/Narendra-150)
+
 
 
 ## For Beginner 
@@ -33,6 +35,7 @@ Add Your name/git profile URL in README.MD file
 ```git push origin [name_of_your_branch]```
 
 
-## License
 
+
+## License
 This project is open source and available under the [MIT License](LICENSE).
