@@ -18,7 +18,7 @@
 
 ```git branch -a```
 
-```git checkout [name_of_your_new_branch]```
+```git checkout [name_of_your_branch]```
 
 Add Your name/git profile URL in README.MD file
 
@@ -30,7 +30,7 @@ Add Your name/git profile URL in README.MD file
 
 ```git commit -m "Author Name Added"```
 
-```git push origin [name_of_your_new_branch]```
+```git push origin [name_of_your_branch]```
 
 
 ## License
