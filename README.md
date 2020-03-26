@@ -12,7 +12,10 @@
 
 
 ## For Beginner 
-```git clone https://github.com/Narendra-150/JSWork.git```
+
+fork this repo and clone forked repo
+
+```git clone [forked repo url]```
 
 ```git pull```
 
